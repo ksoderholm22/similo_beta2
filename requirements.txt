@@ -1,0 +1,10 @@
+markdownify==0.11.6
+pandas==1.2.4
+plotly==5.13.1
+pydeck==0.8.0
+scikit_learn==0.24.1
+streamlit==1.21.0
+-r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/main/tested_requirements/requirements_39.reqs
+streamlit_lottie==0.0.3
+streamlit_option_menu==0.3.2
+pyarrow==10.0.1
